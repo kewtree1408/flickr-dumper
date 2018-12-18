@@ -1,1 +1,2 @@
-flickr_api
+requests==2.21.0
+flickrapi==2.4.0
